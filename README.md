@@ -1,3 +1,6 @@
 # Word-Graphs!
-[output](https://user-images.githubusercontent.com/94231603/156768972-b87a280a-3754-4457-83c6-916fb6e80164.PNG)
-[val.txt](https://github.com/assoumaaa/Word-Graphs/files/8186092/val.txt)
+
+
+![output](https://user-images.githubusercontent.com/94231603/156769051-ccbae338-c4d8-452d-a932-7983b262bb1d.PNG)
+
+![words txt picture](https://user-images.githubusercontent.com/94231603/156769068-a5bb8026-252f-4afd-aa41-cd6a07d7a3a8.PNG)
