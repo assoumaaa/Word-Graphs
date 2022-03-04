@@ -6,4 +6,4 @@
 We will be solving a puzzle that is made up of a list of words, we are given several english words. And our goal is to go from word A to word B by a series of one character substitutions, one character insertion or one character deletions.
 
 # Data Structure Used
-I have focused on using graphs. All the words we have given in words.txt we will set them inside a graph and connect them with words that have only 1 word differ. For example help is connected with hel,hell and belp. After that we will implement BFS(breadth first search) over the graph and find the shortest path from word A to word B
+I have focused on using graphs. All the words we have given in words.txt we will set them inside a graph and connect them with words that have only 1 word differ. For example help is connected with hel,hell and belp. After that we will implement BFS(breadth first search) over the graph and find the shortest path from word A to word B thats if it exists!
